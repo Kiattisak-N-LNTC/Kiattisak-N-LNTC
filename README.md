@@ -16,15 +16,15 @@ A Software Developer passionate about building performant web applications, high
 ### 📌 Highlighted Projects
 > *Note: Some repositories are kept private due to client agreements and institutional policy.*
 
-#### 💳 MindMend Card Game
+#### Enterprise Logistics System (ILS Logistics Internship)
+- **Overview:** Developed enterprise-grade modules for route planning, master data, PDA management, and reporting workflows.
+- **Key Contributions:** Built shared infrastructure including a custom dynamic DataGrid table, schema-driven CRUD interfaces across 12+ data domains, and integrated Leaflet interactive mapping.
+- **Tech:** React 19, Vite, MUI v7, Tailwind CSS, TypeScript, Context + Reducer Architecture.
+
+#### MindMend Card Game
 - **Overview:** A therapeutic digital card game to support psychotherapy patients in recovery.
 - **Role:** Co-developer in collaboration with Thammasat University's Faculty of Social Administration.
 - **Tech:** React Native, JavaScript.
-
-#### 📄 GenAI PDF Brochure Generator
-- **Overview:** Generative AI API transforming structured user inputs into automated PDF brochures.
-- **Event:** depa Growth Lab GenAI Hackathon 2024.
-- **Tech:** AWS, Node.js, Generative AI APIs.
 
 ---
 
