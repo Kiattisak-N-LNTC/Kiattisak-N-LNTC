@@ -28,18 +28,57 @@ TensorFlow · Keras · PyTorch · CNNs · ResNet · GPU/HPC Workloads
 
 ---
 
-### 📌 Highlighted Projects
-> *Note: Some repositories are kept private due to client agreements and institutional policy.*
+## 📌 Selected Work
 
-#### Enterprise Logistics System (ILS Logistics Internship)
-- **Overview:** Developed enterprise-grade modules for route planning, master data, PDA management, and reporting workflows.
-- **Key Contributions:** Built shared infrastructure including a custom dynamic DataGrid table, schema-driven CRUD interfaces across 12+ data domains, and integrated Leaflet interactive mapping.
-- **Tech:** React 19, Vite, MUI v7, Tailwind CSS, TypeScript, Context + Reducer Architecture.
+### Enterprise Logistics Platform
+React · TypeScript · Vite · MUI · REST APIs · Leaflet
 
-#### MindMend Card Game
-- **Overview:** A therapeutic digital card game to support psychotherapy patients in recovery.
-- **Role:** Co-developer in collaboration with Thammasat University's Faculty of Social Administration.
-- **Tech:** React Native, JavaScript.
+Developed enterprise logistics modules across 12+ operational data domains
+during my internship at ILS Logistics, including reusable data-management
+infrastructure, API integration, route/location features, and shared
+application-state architecture.
+
+---
+
+### Skin Disease Image Classification
+Python · TensorFlow · Keras · ResNet50
+
+Built a five-class image-classification pipeline using transfer learning with
+ResNet50, GPU-accelerated training, image preprocessing, and model evaluation.
+
+---
+
+### Containerized CRM REST API
+Node.js · Express · MongoDB · JWT · Docker
+
+Built a REST API with authentication and database integration and containerized
+the development environment using Docker.
+
+---
+
+### HPC & Parallel Computing
+Linux · Slurm · GPU Computing · GROMACS · Python/PyTorch
+
+Hands-on experience through APAC HPC-AI competitions working remotely with
+Linux HPC clusters, CPU/GPU workloads, job scheduling, benchmarking, and
+multi-node computing environments.
+
+---
+
+### MindMend
+React Native · JavaScript
+
+Co-developed a therapeutic digital card game in collaboration with
+Thammasat University's Faculty of Social Administration.
+
+---
+
+## 🏆 Achievements
+
+- 🥈 2nd Place — APAC HPC-AI Competition 2024
+- 🎖 Merit Award — APAC HPC-AI Competition 2023
+- 🥉 3rd Place — 12th Student RDMA Programming Competition 2024
+- 🏆 Winner — SCI TU Hackathon 2023
 
 ---
 
