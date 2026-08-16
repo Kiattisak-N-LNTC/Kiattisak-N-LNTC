@@ -1,6 +1,6 @@
 # Hi, I'm Kiattisak Nual-ai 👋
 
-### Software Engineer | Web • Systems • AI | 2nd Place APAC HPC-AI 2024
+## Software Engineer | Web • Systems • AI | 2nd Place APAC HPC-AI 2024
 
 Computer Science graduate from Thammasat University with hands-on experience
 across software engineering, enterprise web development, Linux/HPC environments,
@@ -12,18 +12,18 @@ and machine-learning projects.
 
 ---
 
-### 🛠️ Technologies
+## 🛠️ Technologies
 
-**Programming**
+**Programming :**
 TypeScript · JavaScript · Python · C
 
-**Software Development**
+**Software Development :**
 React · Node.js · Express · REST APIs · React Native · Vite · MUI
 
-**Systems & Infrastructure**
+**Systems & Infrastructure :**
 Linux · Bash/Shell · SSH · Slurm · Docker · Git · AWS · Azure
 
-**AI & Computing**
+**AI & Computing :**
 TensorFlow · Keras · PyTorch · CNNs · ResNet · GPU/HPC Workloads
 
 ---
@@ -38,11 +38,13 @@ during my internship at ILS Logistics, including reusable data-management
 infrastructure, API integration, route/location features, and shared
 application-state architecture.
 
+
 ### Skin Disease Image Classification
 Python · TensorFlow · Keras · ResNet50
 
 Built a five-class image-classification pipeline using transfer learning with
 ResNet50, GPU-accelerated training, image preprocessing, and model evaluation.
+
 
 ### Containerized CRM REST API
 Node.js · Express · MongoDB · JWT · Docker
@@ -50,12 +52,14 @@ Node.js · Express · MongoDB · JWT · Docker
 Built a REST API with authentication and database integration and containerized
 the development environment using Docker.
 
+
 ### HPC & Parallel Computing
 Linux · Slurm · GPU Computing · GROMACS · Python/PyTorch
 
 Hands-on experience through APAC HPC-AI competitions working remotely with
 Linux HPC clusters, CPU/GPU workloads, job scheduling, benchmarking, and
 multi-node computing environments.
+
 
 ### MindMend
 React Native · JavaScript
