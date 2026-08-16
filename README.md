@@ -12,11 +12,19 @@ and machine-learning projects.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** TypeScript, JavaScript, C, Python, HTML/CSS
-- **Frontend & Mobile:** React, Next.js, React Native, Vite, Tailwind CSS, MUI
-- **Backend & Cloud:** Node.js, Express (MVC), REST APIs, MongoDB, Docker, Azure, AWS
-- **Tools:** Git, GitHub, Linux, Postman, MobaXterm
+### 🛠️ Technologies
+
+**Programming**
+TypeScript · JavaScript · Python · C
+
+**Software Development**
+React · Node.js · Express · REST APIs · React Native · Vite · MUI
+
+**Systems & Infrastructure**
+Linux · Bash/Shell · SSH · Slurm · Docker · Git · AWS · Azure
+
+**AI & Computing**
+TensorFlow · Keras · PyTorch · CNNs · ResNet · GPU/HPC Workloads
 
 ---
 
