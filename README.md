@@ -38,15 +38,11 @@ during my internship at ILS Logistics, including reusable data-management
 infrastructure, API integration, route/location features, and shared
 application-state architecture.
 
----
-
 ### Skin Disease Image Classification
 Python · TensorFlow · Keras · ResNet50
 
 Built a five-class image-classification pipeline using transfer learning with
 ResNet50, GPU-accelerated training, image preprocessing, and model evaluation.
-
----
 
 ### Containerized CRM REST API
 Node.js · Express · MongoDB · JWT · Docker
@@ -54,16 +50,12 @@ Node.js · Express · MongoDB · JWT · Docker
 Built a REST API with authentication and database integration and containerized
 the development environment using Docker.
 
----
-
 ### HPC & Parallel Computing
 Linux · Slurm · GPU Computing · GROMACS · Python/PyTorch
 
 Hands-on experience through APAC HPC-AI competitions working remotely with
 Linux HPC clusters, CPU/GPU workloads, job scheduling, benchmarking, and
 multi-node computing environments.
-
----
 
 ### MindMend
 React Native · JavaScript
