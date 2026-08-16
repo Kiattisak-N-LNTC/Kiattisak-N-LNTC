@@ -1,6 +1,6 @@
 # Hi, I'm Kiattisak Nual-ai 👋
 
-## Software Engineer | Web • Systems • AI | 2nd Place APAC HPC-AI 2024
+### Software Engineer | Web • Systems • AI | 2nd Place APAC HPC-AI 2024
 
 Computer Science graduate from Thammasat University with hands-on experience
 across software engineering, enterprise web development, Linux/HPC environments,
