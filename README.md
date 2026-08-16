@@ -1,7 +1,14 @@
-# Hi there, I'm Kiattisak Nual-ai 👋 
-### Full-Stack Developer | 2nd Place APAC HPC-AI 2024
+# Hi, I'm Kiattisak Nual-ai 👋
 
-A Software Developer passionate about building performant web applications, high-performance systems, and interactive tools.
+### Software Engineer | Web • Systems • AI | 2nd Place APAC HPC-AI 2024
+
+Computer Science graduate from Thammasat University with hands-on experience
+across software engineering, enterprise web development, Linux/HPC environments,
+cloud and containerized systems, and machine learning.
+
+I enjoy building practical software and understanding the systems underneath it —
+from React applications and REST APIs to Linux compute environments, GPU workloads,
+and machine-learning projects.
 
 ---
 
